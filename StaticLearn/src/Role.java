@@ -4,5 +4,10 @@ public class Role {
 		return new String[]{"ADMIN", "USER"};
 	}
 	
+	public void display() {
+		
+		
+		System.out.println("Hello world");
+	}
 	
 }
