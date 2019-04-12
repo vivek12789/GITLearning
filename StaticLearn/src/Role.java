@@ -9,5 +9,10 @@ public class Role {
 		
 		System.out.println("Hello world");
 	}
+public void display2() {
+		
+		
+		System.out.println("Hello world");
+	}
 	
 }
